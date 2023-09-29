@@ -1,0 +1,9 @@
+1) open the game
+2) run the injector
+
+
+No this is not a virus, use your own injector if you want
+No this isnt R3zn, this was created before r3zn updated to 64bit, we keep updating due
+to its wide language support
+
+make sure the game is in dx11 mode, dont contract us, this software is provided "as is"
